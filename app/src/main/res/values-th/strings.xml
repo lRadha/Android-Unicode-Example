@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Unicode Demo</string>
+    <string name="welcome">ยินดีต้อนรับ</string>
+</resources>

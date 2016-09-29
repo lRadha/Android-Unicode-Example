@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Unicode Demo</string>
+    <string name="welcome">Welcome</string>
+</resources>
